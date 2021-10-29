@@ -1,0 +1,7 @@
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\bin\Debug\SJF - Non Preemptive - Case.exe.config
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\bin\Debug\SJF - Non Preemptive - Case.exe
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\bin\Debug\SJF - Non Preemptive - Case.pdb
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\obj\Debug\SJF - Non Preemptive - Case.csproj.AssemblyReference.cache
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\obj\Debug\SJF - Non Preemptive - Case.csproj.CoreCompileInputs.cache
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\obj\Debug\SJF - Non Preemptive - Case.exe
+T:\Until Tommorow\OKTOBER\SJF - Non Preemptive - Case\SJF - Non Preemptive - Case\obj\Debug\SJF - Non Preemptive - Case.pdb
